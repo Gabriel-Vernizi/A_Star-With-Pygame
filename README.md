@@ -88,7 +88,7 @@ f(n) = g(n) + \mu \cdot h(n)
 $$
 
 Where `μ > 1`.  
-In this code, the weight `μ` is set to **2**.
+In this code, the weight `μ` is set to **3**.
 
 **Trade-off:** The algorithm explores significantly fewer nodes and finds a path much faster, but the resulting path is *near-optimal* rather than guaranteed to be the absolute shortest.
 
